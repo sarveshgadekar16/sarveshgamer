@@ -1,0 +1,140 @@
+
+html{
+    scroll-behavior: smooth;
+}
+
+
+
+body{
+    margin: 0;
+}
+
+.top_button{
+    border-radius: 100%;
+    height: 50px;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;    
+}
+
+
+
+
+.top-container{
+    background-color: rgb(204, 247, 232);
+    height: 400px;
+    text-align: center;
+    color: rgb(0, 184, 122);
+    padding-top: 50px;
+    padding-bottom: 120px;
+}
+
+.middle-container{
+    
+    padding: 25px 0 0 0;
+    
+    text-align: center;
+    
+    
+}
+
+
+
+.bottom-container{
+    background-color: rgb(204, 247, 232);
+    height: 100px;
+}
+
+.top-container h1{
+   font-size: 6rem;
+   font-family: 'Sacramento', cursive;
+}
+
+hr{
+    
+    border-color: rgb(112, 128, 144);
+    border-style: dotted;
+    border-width: 7px 0 0 0 ;
+    width: 10%;
+}
+
+.play{
+    text-align: left;
+    width: 60%;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.play img{
+    width: 25%;
+    float: left;
+    margin: 40px;
+}
+
+
+.minecraft{
+    text-align: left;
+    width: 60%;
+    margin: 0 auto;
+    padding-bottom: 50px;
+}
+
+.minecraft img{
+    width: 25%;
+    float: right;
+    margin: 40px;
+}
+
+.p hr{
+    border-width: 12px;
+    margin: 100px auto;
+}
+
+
+        .top-container h3{
+            font-size: 3rem;
+            font-family: sans-serif;
+            
+        }
+
+        .cloud1{
+            position: relative;
+            left: 250px;
+            top: 30px;
+        }
+        
+        .cloud2{
+            position: relative;
+            right: 300px;
+            bottom: 50px;
+        }
+
+        .mountain{
+            height: 500px;
+        }
+        
+
+        .sarvo-img{
+            height: 350px;
+            border: solid;
+            border-color: rgb(0, 184, 122);
+            border-radius: 50%;
+        }
+
+
+
+ .middle-container h1{
+    font-size: 3rem;
+}    
+
+.cbutton h2{
+    margin: 0;
+    color: white;
+}
+
+.cbutton{
+    padding: 20px 40px;
+    border: none;
+    background-image: -webkit-linear-gradient(top, #36c7cf, #00968f);
+    border-radius: 12px;
+}
